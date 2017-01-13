@@ -1,5 +1,5 @@
 {
-  "name": "tchelinux2016",
+  "name": "devopsweek2017",
   "version": "1.0.0",
   "description": "app de exemplo para demostrar a utilização do buddy.works",
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mundodocker/tchelinux2016.git"
+    "url": "git+https://github.com/mundodocker/devopsweek2017.git"
   },
   "keywords": [
-    "tchelinux"
+    "devopsweek2017"
   ],
   "author": "Cássio Bock <bock@mundodocker.com.br>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mundodocker/tchelinux2016/issues"
+    "url": "https://github.com/mundodocker/devopsweek2017/issues"
   },
-  "homepage": "https://github.com/mundodocker/tchelinux2016#readme",
+  "homepage": "https://github.com/mundodocker/devopsweek2017#readme",
   "dependencies": {
     "express": "^4.14.0"
   },
